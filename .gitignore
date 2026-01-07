@@ -1,0 +1,47 @@
+# IDEs
+.idea/
+.vscode/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+*.whl
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Type/checker caches
+.mypy_cache/
+.pyre/
+
+# Environment files / secrets
+.env
+*.pem
+*.key
+
+# Logs / cache
+*.log
+logs/
+.cache/
+
+# Others
+.tox/
+__pypackages__/
+.python-version
